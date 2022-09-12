@@ -11,7 +11,7 @@ I started with really talented people:
 
 - [Publifyer](https://www.publifyer.com/es/) 
 
-#### The first e-learning platform for entrepeneurs 
+#### An e-learning platform for small entrepeneurs 
 
 - [E-learning platform](https://epico.gob.ec/ce/auth/login/home )
 
