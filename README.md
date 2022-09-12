@@ -13,13 +13,12 @@ I started with really talented people:
 
 #### The first e-learning platform for entrepeneurs 
 
-- [E-learning platform] (https://epico.gob.ec/ce/auth/login/home)
+- [E-learning platform](https://epico.gob.ec/ce/auth/login/home )
 
 
 Currently building:
 
 - [Get It](https://www.get.it/)
-
 
 
 
